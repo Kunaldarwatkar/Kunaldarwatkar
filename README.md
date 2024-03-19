@@ -3,7 +3,7 @@ Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate DevOpe engineer from India</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- 🌱 I’m currently learning **Linux , AWS , DevOps**
+- 🌱 I’m currently learning Linux , AWS , DevOps
 
 - 💬 Ask me about **AWS , DevOps tool , Linux**
 
